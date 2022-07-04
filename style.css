@@ -1,3 +1,40 @@
 h1 {
     font-family: 'PT Serif', serif;
+    font-size: 150px
+}
+
+p {
+    font-size: 80px;
+}
+
+.boom {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.top-banner {
+    display: flex;
+    background-size: 100%;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.link-buttom {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 25px 55px;
+    border-radius: 20px;
+    font-weight: 700
+}
+
+.half-width img {
+    width: 80%;
+}
+
+#box text {
+    width: 80%;
 }
